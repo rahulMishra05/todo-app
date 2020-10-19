@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo App</title>
+
+    <!-- SCRIPT TO LINK THE STYLE SHEET -->
+    <link rel="stylesheet" href="main.css">
+
+    <!-- SCRIPT TO LINK THE JAVASCRIPT FILE -->
+    <link rel="stylesheet" href="index.js">
+</head>
+<body>
+    
+    <!-- The heading of the todo app -->
+    <div id="myDiv" class="header">
+        <!-- Title of the todo app -->
+        <h2>My Todo App</h2>
+
+        <!-- Input feild where you can enter your task -->
+        <input type="text" id="myInput" placeholder="Task..">
+
+        <!-- Add task button, when it will be clicked a function will be called "newElement()" -->
+        <span onclick="newElement()" class="addBtn">Add</span>
+    </div>
+
+    <!-- The main portion of the list, where all the task will be listed -->
+    <ul id="myUl">
+        <!-- These are the dummy todo list items -->
+        <li>Hit the gym</li>
+        <li class="checked">Recored Youtube video</li>
+        <li>Eat lunch</li>
+        <li>Buy eggs</li>
+        <li>Read a blog post</li>
+        <li>Organize work space</li>
+    </ul>
+
+</body>
+</html>
