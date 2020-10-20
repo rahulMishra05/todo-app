@@ -15,7 +15,7 @@ If you want to have a look that how does this todo list app looks and want to us
 **In order to clone this repository follow the following steps**\
 - Open the command prompt/terminal and enter the following command. 
 ```shell
-https://github.com/rahulMishra05/todo-app.git
+git clone https://github.com/rahulMishra05/todo-app.git
 ```
 - You had successfully cloned this repository, now go to the file directory by entering the following commands.
 ```shell
