@@ -9,7 +9,7 @@
 4. You can not give blank input in the _input_ feild.
 
 ### Live Demo 
-If you want to have a look that how does this todo list app looks and want to use it, then please [click here](https://rahulmishra05.github.io/todo-app/)
+If you want to have a look that how does this todo list app looks and want to use it, then please [click here](https://todo-app-rahul-mishra.netlify.app/)
 
 ### Clone this repository
 **In order to clone this repository follow the following steps**\
